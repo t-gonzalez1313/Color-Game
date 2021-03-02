@@ -1,3 +1,3 @@
 # Color Game
- Adding my first code
- I should be able to add my HTML code to this repository.
+Adding my first code
+Wait do I have 2 readme files?
